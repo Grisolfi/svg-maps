@@ -19,6 +19,7 @@
 		"map",
 		"svg",
 		"javascript",
+		"typescript",
 		"es modules"
 	],
 	"author": "Victor Cazanave <victor.cazanave@gmail.com>",

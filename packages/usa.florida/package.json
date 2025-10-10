@@ -3,8 +3,10 @@
 	"version": "1.0.0",
 	"description": "Map of Florida, USA",
 	"main": "index.js",
+	"types": "index.d.ts",
 	"files": [
 		"index.js",
+		"index.d.ts",
 		"usa.florida.svg"
 	],
 	"repository": {
