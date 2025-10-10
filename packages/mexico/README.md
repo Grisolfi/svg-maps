@@ -42,10 +42,6 @@ Contains all the states of Mexico:
 
 `npm install --save @svg-maps/mexico`
 
-### yarn
-
-`yarn add @svg-maps/mexico`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

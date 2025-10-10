@@ -22,10 +22,6 @@ Contains all the provinces of the Netherlands:
 
 `npm install --save @svg-maps/netherlands`
 
-### yarn
-
-`yarn add @svg-maps/netherlands`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

@@ -35,10 +35,6 @@ Contains all the provinces of Cambodia:
 
 `npm install --save @svg-maps/cambodia`
 
-### yarn
-
-`yarn add @svg-maps/cambodia`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

@@ -23,10 +23,6 @@ Contains all the regions of Saudi Arabia:
 
 `npm install --save @svg-maps/saudi-arabia`
 
-### yarn
-
-`yarn add @svg-maps/saudi-arabia`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

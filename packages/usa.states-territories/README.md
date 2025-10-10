@@ -66,10 +66,6 @@ Contains all the states and territories of the United States of America:
 
 `npm install --save @svg-maps/usa.states-territories`
 
-### yarn
-
-`yarn add @svg-maps/usa.states-territories`
-
 ## Credits
 
 This map is based on the work of [Heitordp](https://commons.wikimedia.org/wiki/User:Heitordp).

@@ -32,10 +32,6 @@ Contains all the counties of Sweden:
 
 `npm install --save @svg-maps/sweden`
 
-### yarn
-
-`yarn add @svg-maps/sweden`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

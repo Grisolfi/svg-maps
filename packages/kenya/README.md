@@ -57,10 +57,6 @@ Contains all the counties of Kenya:
 
 `npm install --save @svg-maps/kenya`
 
-### yarn
-
-`yarn add @svg-maps/kenya`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

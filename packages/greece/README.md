@@ -24,10 +24,6 @@ Contains all the regions of Greece:
 
 `npm install --save @svg-maps/greece`
 
-### yarn
-
-`yarn add @svg-maps/greece`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

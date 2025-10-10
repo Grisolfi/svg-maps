@@ -47,10 +47,6 @@ Contains all the states and the Federal Capital Territory (FCT) of Nigeria:
 
 `npm install --save @svg-maps/nigeria`
 
-### yarn
-
-`yarn add @svg-maps/nigeria`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

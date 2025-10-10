@@ -34,10 +34,6 @@ Contains all the governorates of the administrative divisions of Tunisia:
 
 `npm install --save @svg-maps/tunisia`
 
-### yarn
-
-`yarn add @svg-maps/tunisia`
-
 ## Credits
 
 This map is based on the work of [simplemaps](https://simplemaps.com).

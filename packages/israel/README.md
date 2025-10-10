@@ -18,10 +18,6 @@ Contains all the states and union territories of Israel:
 
 `npm install --save @svg-maps/israel`
 
-### yarn
-
-`yarn add @svg-maps/israel`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

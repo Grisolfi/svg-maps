@@ -27,10 +27,6 @@ Contains all the regions of New Zealand:
 
 `npm install --save @svg-maps/new-zealand`
 
-### yarn
-
-`yarn add @svg-maps/new-zealand`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

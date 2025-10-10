@@ -15,10 +15,6 @@ Contains all the regions of Denmark:
 
 `npm install --save @svg-maps/denmark`
 
-### yarn
-
-`yarn add @svg-maps/denmark`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

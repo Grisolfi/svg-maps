@@ -94,10 +94,6 @@ Contains all the counties of the Michigan state:
 
 `npm install --save @svg-maps/usa.michigan`
 
-### yarn
-
-`yarn add @svg-maps/usa.michigan`
-
 ## Credits
 
 This map is based on the work of [ThrawnRocks](https://commons.wikimedia.org/wiki/Special:Contributions/ThrawnRocks).

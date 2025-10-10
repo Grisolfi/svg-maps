@@ -28,10 +28,6 @@ Contains all the counties and cities of the main island. Same as [Taiwan](/packa
 
 `npm install --save @svg-maps/taiwan.main`
 
-### yarn
-
-`yarn add @svg-maps/taiwan.main`
-
 ### Credits
 
 This map is based on the work of [simplemaps](https://simplemaps.com).

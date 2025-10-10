@@ -88,10 +88,6 @@ Contains all the municipalities of Puerto Rico:
 
 `npm install --save @svg-maps/puerto-rico`
 
-### yarn
-
-`yarn add @svg-maps/puerto-rico`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

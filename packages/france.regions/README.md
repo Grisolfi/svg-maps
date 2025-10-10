@@ -23,10 +23,6 @@ Contains all the regions of Metropolitan France:
 
 `npm install --save @svg-maps/france.regions`
 
-### yarn
-
-`yarn add @svg-maps/france.regions`
-
 ## Credits
 
 This map is based on the work of [amCharts](https://www.amcharts.com).

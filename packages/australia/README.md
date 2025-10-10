@@ -26,10 +26,6 @@ Contains all the states and territories (mainland and islands) of Australia:
 
 `npm install --save @svg-maps/australia`
 
-### yarn
-
-`yarn add @svg-maps/australia`
-
 ## Credits
 
 This map is based on the work of [Lokal_Profil](https://commons.wikimedia.org/wiki/User:Lokal_Profil).

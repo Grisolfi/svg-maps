@@ -43,10 +43,6 @@ Contains all the provinces, autonomous regions and municipalities of China:
 
 `npm install --save @svg-maps/china`
 
-### yarn
-
-`yarn add @svg-maps/china`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

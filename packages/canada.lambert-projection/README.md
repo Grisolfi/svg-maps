@@ -26,10 +26,6 @@ Contains all the provinces and territories of Canada:
 
 `npm install --save @svg-maps/canada.lambert-projection`
 
-### yarn
-
-`yarn add @svg-maps/canada.lambert-projection`
-
 ## Credits
 
 This map is based on the work of [STyx](https://commons.wikimedia.org/wiki/User:STyx).

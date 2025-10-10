@@ -265,10 +265,6 @@ Contains all the countries in the World:
 
 `npm install --save @svg-maps/world`
 
-### yarn
-
-`yarn add @svg-maps/world`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

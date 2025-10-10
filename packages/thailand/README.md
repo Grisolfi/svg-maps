@@ -87,10 +87,6 @@ Contains all the provinces and administrative centers of Thailand:
 
 `npm install --save @svg-maps/thailand`
 
-### yarn
-
-`yarn add @svg-maps/thailand`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

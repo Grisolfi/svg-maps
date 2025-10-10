@@ -32,10 +32,6 @@ Contains all the municipalities of Cape Verde:
 
 `npm install --save @svg-maps/cape-verde`
 
-### yarn
-
-`yarn add @svg-maps/cape-verde`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

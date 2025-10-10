@@ -27,10 +27,6 @@ Contains all the autonomous communities of Spain:
 
 `npm install --save @svg-maps/spain`
 
-### yarn
-
-`yarn add @svg-maps/spain`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

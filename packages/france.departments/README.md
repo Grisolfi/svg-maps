@@ -106,10 +106,6 @@ Contains all the departments of Metropolitan France:
 
 `npm install --save @svg-maps/france.departments`
 
-### yarn
-
-`yarn add @svg-maps/france.departments`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).
