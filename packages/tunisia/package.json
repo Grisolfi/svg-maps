@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Map of Tunisia",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "tunisia.svg"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/tunisia"

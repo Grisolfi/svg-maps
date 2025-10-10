@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"description": "Map of USA states and territories",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"usa.states-territories.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.states-territories"

@@ -3,6 +3,10 @@
 	"version": "1.0.1",
 	"description": "Map of New Zealand",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"new-zealand.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/new-zealand"

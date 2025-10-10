@@ -3,6 +3,10 @@
 	"version": "1.0.2",
 	"description": "Map of Mexico",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"mexico.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/mexico"

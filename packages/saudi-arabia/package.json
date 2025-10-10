@@ -3,6 +3,10 @@
 	"version": "1.0.1",
 	"description": "Map of Saudi Arabia",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"saudi-arabia.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/saudi-arabia"

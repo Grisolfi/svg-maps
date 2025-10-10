@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"description": "Map of Nigeria",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"nigeria.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/nigeria"

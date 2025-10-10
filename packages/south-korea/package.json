@@ -3,6 +3,10 @@
 	"version": "1.0.1",
 	"description": "Map of South Korea",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"south-korea.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/south-korea"

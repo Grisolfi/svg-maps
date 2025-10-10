@@ -3,6 +3,10 @@
 	"version": "1.0.1",
 	"description": "Map of Spain",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"spain.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/spain"

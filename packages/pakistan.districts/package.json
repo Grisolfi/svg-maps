@@ -3,6 +3,10 @@
 	"version": "1.0.1",
 	"description": "Map of Pakistan districts",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"pakistan.districts.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/pakistan.districts"

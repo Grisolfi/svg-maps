@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"description": "Map of Cape Verde",
 	"main": "index.js",
+	"files": [
+		"index.js",
+		"cape-verde.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/cape-verde"
