@@ -35,10 +35,6 @@ Contains all the districts of Sri Lanka:
 
 `npm install --save @svg-maps/sri-lanka`
 
-### yarn
-
-`yarn add @svg-maps/sri-lanka`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

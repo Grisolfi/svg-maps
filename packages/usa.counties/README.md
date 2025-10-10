@@ -3154,10 +3154,6 @@ Note: In general, "county," "parish," "borough," and other such signifiers are n
 
 `npm install --save @svg-maps/usa.counties`
 
-### yarn
-
-`yarn add @svg-maps/usa.counties`
-
 ## Credits
 
 This map was first created by the [United States Census Bureau](https://www.census.gov/) and has been modified by Wikimedia Commons users.

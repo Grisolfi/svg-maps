@@ -30,10 +30,6 @@ Contains all the regions of Italy:
 
 `npm install --save @svg-maps/italy`
 
-### yarn
-
-`yarn add @svg-maps/italy`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

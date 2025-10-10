@@ -51,10 +51,6 @@ Contains the municipality of Bucharest and all the counties of Romania:
 
 `npm install --save @svg-maps/romania`
 
-### yarn
-
-`yarn add @svg-maps/romania`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

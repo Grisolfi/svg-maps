@@ -44,10 +44,6 @@ Contains all the provinces of Indonesia:
 
 `npm install --save @svg-maps/indonesia`
 
-### yarn
-
-`yarn add @svg-maps/indonesia`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

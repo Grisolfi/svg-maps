@@ -20,10 +20,6 @@ Contains all the provinces of Zimbabwe:
 
 `npm install --save @svg-maps/zimbabwe`
 
-### yarn
-
-`yarn add @svg-maps/zimbabwe`
-
 ## Credits
 
 This map is based on the work of [Mangwani](https://commons.wikimedia.org/wiki/User:Mangwanani).

@@ -43,10 +43,6 @@ Contains all the departments of Colombia:
 
 `npm install --save @svg-maps/colombia`
 
-### yarn
-
-`yarn add @svg-maps/colombia`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

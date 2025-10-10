@@ -57,10 +57,6 @@ Contains all the prefectures of Japan:
 
 `npm install --save @svg-maps/japan`
 
-### yarn
-
-`yarn add @svg-maps/japan`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

@@ -72,10 +72,6 @@ Contains all provinces and cities of Vietnam:
 
 `npm install --save @svg-maps/vietnam`
 
-### yarn
-
-`yarn add @svg-maps/vietnam`
-
 ## Credits
 
 This map is based on the work of [StephenTruong110](https://github.com/StephenTruong110).

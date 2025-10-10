@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-27-green.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yarn](https://yarnpkg.com):
+A set of SVG maps that can be installed via [npm](https://www.npmjs.com):
 * 🇦🇺 [Australia](packages/australia)
 * 🇦🇹 [Austria](packages/austria)
 * 🇧🇷 [Brazil](packages/brazil)
@@ -74,15 +74,21 @@ The SVG files come from different sources and have been cleaned to be lighter an
 
 The JS files contain a simplified object representation of the SVG files.
 
-They can be imported and used in projects like [react-svg-map](https://github.com/VictorCazanave/react-svg-map) or [vue-svg-map](https://github.com/VictorCazanave/vue-svg-map).
+They can be used with components like:
+* ⚛️ [react-svg-map](https://github.com/VictorCazanave/react-svg-map)
+* 💚 [vue-svg-map](https://github.com/VictorCazanave/vue-svg-map).
 
 ## CLI tool
 
-The [CLI tool](packages/cli) can be used to create new map packages or generate JS files from SVG files.
+The [CLI tool](packages/cli) can be used to:
+* 📦 Create new map packages
+* ⚙️ Generate JS files from SVG files
 
 ## Contribution
 
-If you want to add a new map (country, state...), feel free to [contribute](CONTRIBUTING.md)!
+* 🚫 Please do not open issues requesting new maps
+* 🤝 If you need a specific map, feel free to create a pull request
+* 📖 Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your work
 
 ### Contributors
 

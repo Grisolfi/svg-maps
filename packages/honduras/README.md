@@ -28,10 +28,6 @@ Contains all the departments of Honduras:
 
 `npm install --save @svg-maps/honduras`
 
-### yarn
-
-`yarn add @svg-maps/honduras`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

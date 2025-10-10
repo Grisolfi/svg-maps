@@ -154,10 +154,6 @@ Contains all the districts of Pakistan:
 
 `npm install --save @svg-maps/pakistan.districts`
 
-### yarn
-
-`yarn add @svg-maps/pakistan.districts`
-
 ## Credits
 
 This map is based on the work of [Schajee](https://commons.wikimedia.org/wiki/User:Schajee).

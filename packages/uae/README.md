@@ -17,10 +17,6 @@ Contains all the emirates of the United Arab Emirates:
 
 `npm install --save @svg-maps/uae`
 
-### yarn
-
-`yarn add @svg-maps/uae`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

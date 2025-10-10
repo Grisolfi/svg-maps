@@ -37,10 +37,6 @@ Contains all the states and the Federal District of Brazil:
 
 `npm install --save @svg-maps/brazil`
 
-### yarn
-
-`yarn add @svg-maps/brazil`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

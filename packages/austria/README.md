@@ -20,10 +20,6 @@ Contains all the states of Austria:
 
 `npm install --save @svg-maps/austria`
 
-### yarn
-
-`yarn add @svg-maps/austria`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

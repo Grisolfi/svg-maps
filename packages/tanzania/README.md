@@ -40,10 +40,6 @@ Contains all the regions of Tanzania before 2016:
 
 `npm install --save @svg-maps/tanzania`
 
-### yarn
-
-`yarn add @svg-maps/tanzania`
-
 ## Credits
 
 This map is based on the work of [amCharts](https://www.amcharts.com).

@@ -46,10 +46,6 @@ Contains all the states and union territories of India:
 
 `npm install --save @svg-maps/india`
 
-### yarn
-
-`yarn add @svg-maps/india`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

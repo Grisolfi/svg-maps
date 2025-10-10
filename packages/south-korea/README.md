@@ -27,10 +27,6 @@ Contains all the provincial divisions of South Korea:
 
 `npm install --save @svg-maps/south-korea`
 
-### yarn
-
-`yarn add @svg-maps/south-korea`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

@@ -3,6 +3,12 @@
 	"version": "1.0.0",
 	"description": "Map of Kenya",
 	"main": "index.js",
+	"types": "index.d.ts",
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"kenya.svg"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/kenya"

@@ -23,10 +23,6 @@ Contains all the provinces and territories of Canada:
 
 `npm install --save @svg-maps/canada`
 
-### yarn
-
-`yarn add @svg-maps/canada`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

@@ -28,10 +28,6 @@ Contains all the districts of Hong Kong:
 
 `npm install --save @svg-maps/hong-kong`
 
-### yarn
-
-`yarn add @svg-maps/hong-kong`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

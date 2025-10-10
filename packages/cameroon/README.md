@@ -20,10 +20,6 @@ Contains all the regions of Cameroon:
 
 `npm install --save @svg-maps/cameroon`
 
-### yarn
-
-`yarn add @svg-maps/cameroon`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

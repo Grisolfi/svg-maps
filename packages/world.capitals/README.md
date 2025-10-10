@@ -266,10 +266,6 @@ Contains all the capitals in the World:
 
 `npm install --save @svg-maps/world.capitals`
 
-### yarn
-
-`yarn add @svg-maps/world.capitals`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

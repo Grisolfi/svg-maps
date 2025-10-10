@@ -26,10 +26,6 @@ Contains all the states (_Länder_) of Germany:
 
 `npm install --save @svg-maps/germany`
 
-### yarn
-
-`yarn add @svg-maps/germany`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

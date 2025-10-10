@@ -61,10 +61,6 @@ Contains all the states of the United States of America:
 
 `npm install --save @svg-maps/usa`
 
-### yarn
-
-`yarn add @svg-maps/usa`
-
 ## Credits
 
 This map is based on the work of [amCharts](https://www.amcharts.com).

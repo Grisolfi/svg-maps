@@ -24,10 +24,6 @@ Contains all the regions, the autonomous republic and the independent city of Uz
 
 `npm install --save @svg-maps/uzbekistan`
 
-### yarn
-
-`yarn add @svg-maps/uzbekistan`
-
 ## Credits
 
 This map is based on the work of [MapSVG](https://mapsvg.com).

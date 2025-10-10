@@ -1,6 +1,7 @@
-const path = require('path')
-const fs = require('fs');
-const Generator = require('yeoman-generator');
+import { dirname, join } from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+import Generator from 'yeoman-generator';
 
 const LICENSE_DATA = {
 	Unlicense: {
@@ -21,7 +22,7 @@ const LICENSE_DATA = {
 	},
 }
 
-module.exports = class extends Generator {
+export default class extends Generator {
 	async prompting() {
 		this.answers = await this.prompt([
 			{
@@ -45,8 +46,8 @@ module.exports = class extends Generator {
 				type: 'input',
 				name: 'author',
 				message: `Enter the author's name and email (e.g. James Bond <james.bond@sis.gov.uk>):`,
-				default: () => {
-					return `${this.user.git.name()} <${this.user.git.email()}>`
+				default: async () => {
+					return `${await this.git.name()} <${await this.git.email()}>`
 				}
 			},
 			{
@@ -59,6 +60,9 @@ module.exports = class extends Generator {
 	}
 
 	writing() {
+		const __filename = fileURLToPath(import.meta.url);
+		const __dirname = dirname(__filename);
+
 		const packagePath = this.destinationPath(this.answers.package)
 		const licenseData = LICENSE_DATA[this.answers.license] // Listed license
 			|| { licenseBadge: 'LICENSE_SVG_BADGE', licenseLink: 'LICENSE_LINK' } // Other license
@@ -66,9 +70,9 @@ module.exports = class extends Generator {
 		// Create package folder
 		fs.mkdirSync(packagePath)
 
-		// Use absolute path of templates folder 
+		// Use absolute path of templates folder
 		// because default is ./templates/ and depends on working directory
-		this.sourceRoot(path.join(__dirname, 'templates'))
+		this.sourceRoot(join(__dirname, 'templates'))
 
 		// Change destination root to copy templates in created package folder
 		this.destinationRoot(packagePath)
