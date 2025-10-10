@@ -1,16 +1,17 @@
 #!/usr/bin/env node
 
-'use strict'
+import { createRequire } from 'module';
+import { Command } from 'commander';
+import { runGenerator, convertSvgToJs } from './lib/index.js';
 
-const program = require('commander')
-const { runGenerator, convertSvgToJs } = require('./lib')
+const require = createRequire(import.meta.url);
+const pkg = require('./package.json');
 
-// Used to get version number from package.json
-require('pkginfo')(module, 'version')
+const program = new Command();
 
 program
 	.name("svg-maps")
-	.version(module.exports.version, '-v, --version')
+	.version(pkg.version, '-v, --version')
 
 // TODO: Allow to type name of map directly ('add [map]') to skip first prompting?
 program.command('add')
