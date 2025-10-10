@@ -9,7 +9,7 @@ const GeneratorMap = require('../generator-map')
 module.exports = {
 	/**
 	 * Run Yeoman generator to create a new map package
-	 * 
+	 *
 	 * @returns {undefined}
 	 */
 	runGenerator() {
@@ -59,7 +59,7 @@ module.exports = {
 								return true
 							})
 							.map(child => ({
-								name: child.attributes.name,
+								name: child.attributes['aria-label'],
 								id: child.attributes.id,
 								path: child.attributes.d,
 							}))

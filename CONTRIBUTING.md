@@ -34,7 +34,7 @@ _First thank you for willing to contribute to this project!_
 * Install the CLI tool: `npm run install`
 * Run the command to create a new map: `npm run add`
 * Answer the questions to configure your map
-* Complete the generated files with the data of your map 
+* Complete the generated files with the data of your map
 
 ### Manually
 
@@ -59,16 +59,16 @@ Here is a simplified example of `new-zealand.svg`:
 	xmlns="http://www.w3.org/2000/svg"
 	viewBox="0 0 703 989"
 	aria-label="Map of New Zealand"
-> 
+>
 	<path
 		id="auk"
-		name="Auckland"
+		aria-label="Auckland"
 		d="..."
 	/>
 	...
 	<path
 		id="wtc"
-		name="West Coast"
+		aria-label="West Coast"
 		d="..."
 	/>
 </svg>

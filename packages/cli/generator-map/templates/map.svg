@@ -3,12 +3,12 @@
 	viewBox="TBD"
 	aria-label="Map of <%= map %>"
 >
-	<!-- 
+	<!--
 	Add all the location paths
 	For example:
 	<path
 		id="new-york"
-		name="New York"
+		aria-label="New York"
 		d="..."
 	/>
 	-->
