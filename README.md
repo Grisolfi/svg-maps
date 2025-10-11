@@ -49,7 +49,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com):
 * 🇺🇦 [Ukraine](packages/ukraine)
 * 🇺🇸 [USA](packages/usa)
 * 🇺🇸 [USA, Counties](packages/usa.counties)
-* 🇺🇸 [USA, States & Territories](packages/usa-.states-territories)
+* 🇺🇸 [USA, States & Territories](packages/usa.states-territories)
 * 🇺🇸 [USA, Florida](packages/usa.florida)
 * 🇺🇸 [USA, Michigan](packages/usa.michigan)
 * 🇺🇸 [USA, Utah](packages/usa.utah)
