@@ -1,5 +1,6 @@
 # 🇺🇸 USA, Counties
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/usa.counties)](https://www.npmjs.com/package/@svg-maps/usa.counties)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the counties and "[county-equivalents](https://en.wikipedia.org/wiki/County_%28United_States%29#County_equivalents)" in the United States of America:

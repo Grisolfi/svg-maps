@@ -1,5 +1,6 @@
 # 🇿🇼 Zimbabwe
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/zimbabwe)](https://www.npmjs.com/package/@svg-maps/zimbabwe)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the provinces of Zimbabwe:

@@ -1,5 +1,6 @@
 # 🇰🇪 Kenya
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/kenya)](https://www.npmjs.com/package/@svg-maps/kenya)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Contains all the counties of Kenya:

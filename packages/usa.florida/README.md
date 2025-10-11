@@ -1,5 +1,6 @@
 # 🇺🇸 USA, Florida
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/usa.florida)](https://www.npmjs.com/package/@svg-maps/usa.florida)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the counties of the Florida state:

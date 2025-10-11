@@ -1,5 +1,6 @@
 # 🇦🇺 Australia
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/australia)](https://www.npmjs.com/package/@svg-maps/australia)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Contains all the states and territories (mainland and islands) of Australia:

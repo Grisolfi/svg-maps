@@ -1,5 +1,7 @@
 # 🇹🇼 Taiwan
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/taiwan)](https://www.npmjs.com/package/@svg-maps/taiwan)
+
 Contains all the counties and cities of the administrative divisions of Taiwan:
 * Changhua County
 * Chiayi City

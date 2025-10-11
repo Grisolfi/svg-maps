@@ -1,5 +1,6 @@
 # 🇺🇸 USA States & Territories
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/usa.states-territories)](https://www.npmjs.com/package/@svg-maps/usa.states-territories)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the states and territories of the United States of America:

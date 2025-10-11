@@ -1,5 +1,6 @@
 # 🇺🇸 USA, Utah
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/usa.utah)](https://www.npmjs.com/package/@svg-maps/usa.utah)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the counties of the Utah state:

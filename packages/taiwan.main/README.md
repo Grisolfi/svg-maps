@@ -1,5 +1,7 @@
 # 🇹🇼 Taiwan, main island
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/taiwan.main)](https://www.npmjs.com/package/@svg-maps/taiwan.main)
+
 Contains all the counties and cities of the main island. Same as [Taiwan](/packages/taiwan/) but without Kinmen County and Lienchiang County:
 * Changhua County
 * Chiayi City

@@ -1,5 +1,6 @@
 # 🇺🇸 USA, Michigan
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/usa.michigan)](https://www.npmjs.com/package/@svg-maps/usa.michigan)
 [![License: CC BY SA 3.0](https://img.shields.io/badge/License-CC%20BY%20SA%203.0-blue.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 Contains all the counties of the Michigan state:

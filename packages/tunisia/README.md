@@ -1,5 +1,7 @@
 # 🇹🇳 Tunisia
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/tunisia)](https://www.npmjs.com/package/@svg-maps/tunisia)
+
 Contains all the governorates of the administrative divisions of Tunisia:
 * Ariana Governorate
 * Béja Governorate

@@ -1,5 +1,6 @@
 # 🇸🇦 Saudi Arabia
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/saudi-arabia)](https://www.npmjs.com/package/@svg-maps/saudi-arabia)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Contains all the regions of Saudi Arabia:

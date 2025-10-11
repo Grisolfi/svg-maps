@@ -1,5 +1,6 @@
 # 🇵🇰 Pakistan, districts
 
+[![npm version](https://badgen.net/npm/v/@svg-maps/pakistan.districts)](https://www.npmjs.com/package/@svg-maps/pakistan.districts)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Contains all the districts of Pakistan:
