@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/israel",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "Map of Israel",
 	"main": "index.js",
 	"types": "index.d.ts",

@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/south-korea",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "Map of South Korea",
 	"main": "index.js",
 	"types": "index.d.ts",

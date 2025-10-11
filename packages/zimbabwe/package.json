@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/zimbabwe",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "Map of Zimbabwe",
 	"main": "index.js",
 	"types": "index.d.ts",

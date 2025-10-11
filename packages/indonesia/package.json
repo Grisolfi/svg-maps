@@ -1,6 +1,6 @@
 {
 	"name": "@svg-maps/indonesia",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Map of Indonesia",
 	"main": "index.js",
 	"types": "index.d.ts",
