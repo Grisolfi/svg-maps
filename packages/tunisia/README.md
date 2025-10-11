@@ -1,6 +1,7 @@
 # 🇹🇳 Tunisia
 
 [![npm version](https://badgen.net/npm/v/@svg-maps/tunisia)](https://www.npmjs.com/package/@svg-maps/tunisia)
+[![License: simplemaps](https://img.shields.io/badge/License-simplemaps-blue.svg)](https://simplemaps.com/resources/svg-license)
 
 Contains all the governorates of the administrative divisions of Tunisia:
 * Ariana Governorate
