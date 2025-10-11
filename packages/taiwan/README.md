@@ -1,6 +1,7 @@
 # 🇹🇼 Taiwan
 
 [![npm version](https://badgen.net/npm/v/@svg-maps/taiwan)](https://www.npmjs.com/package/@svg-maps/taiwan)
+[![License: simplemaps](https://img.shields.io/badge/License-simplemaps-blue.svg)](https://simplemaps.com/resources/svg-license)
 
 Contains all the counties and cities of the administrative divisions of Taiwan:
 * Changhua County
