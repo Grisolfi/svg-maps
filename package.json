@@ -9,6 +9,7 @@
 		"bootstrap": "lerna bootstrap",
 		"add": "cd ./packages && svg-maps add",
 		"generate": "svg-maps generate",
+		"version": "lerna version --no-git-tag-version --no-push",
 		"release": "lerna publish from-package"
 	},
 	"repository": {
